@@ -28,27 +28,27 @@ I help **agencies, clinics, and businesses** save 10+ hours/week by building sma
 
 ## 🏆 Real Client Projects
 
-### 🦷 Zia Dental Care
-> Built complete AI automation system for a dental clinic
+### 🦷 Dental Clinic — AI Communication System (Pakistan)
+> Complete AI automation for a local dental clinic
 - WhatsApp automation for appointment booking, reminders & rescheduling
 - Conversation AI on Facebook & Instagram — patients book directly from social media
 - AI auto-responds to Google Reviews on behalf of the clinic
 - Email automation for confirmations & follow-ups
 
-### 🦷 Aiman Zia Dental Care (Dubai)
-> Full AI communication system for a Dubai-based clinic
+### 🦷 Dental Clinic — Full AI Setup (Dubai)
+> Unified AI communication system for a Dubai-based clinic
 - WhatsApp, Instagram & Facebook AI unified into one GHL inbox
 - AI handles 100% of incoming messages across all platforms automatically
 - Email automation campaigns for patient engagement
 
-### 🏥 Amica Connect — Healthcare Staffing Platform
+### 🏥 Healthcare Staffing Platform — CRM & Email System
 > End-to-end CRM & automation for a platform connecting clinics with job seekers
 - GHL CRM synced with platform — tracking registration → verification → job applied
 - **35,000+ emails** sent over **62-day campaign** — inbox delivery, not spam
 - SMS setup with purchased numbers for user engagement
 - Complete real-time dashboard for all user data
 
-### 🌐 10+ Website GHL Integrations
+### 🌐 10+ Business Website Integrations
 > Third-party websites with GHL as backend
 - Custom forms feeding directly into GHL CRM
 - Lead management pipelines for each business
