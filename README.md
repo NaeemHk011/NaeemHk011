@@ -56,12 +56,11 @@ I help **agencies, clinics, and businesses** save 10+ hours/week by building sma
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently WOrking On
 
-- LangChain, LangGraph, CrewAI for Multi-Agent AI Systems
-- Agentic AI Workflows & RAG Applications
-- Advanced n8n & Make.com automation patterns
-
+- OpenClaw 
+- Digital FTE's
+- 
 ---
 
 ## 🔭 Currently Working On
@@ -71,7 +70,9 @@ AI-powered agentic systems and GoHighLevel automation for service businesses and
 ---
 
 ## 🤝 Open To
-
+- LangChain, LangGraph, CrewAI for Multi-Agent AI Systems
+- Agentic AI Workflows & RAG Applications
+- Advanced n8n & Make.com automation patterns
 - Collaboration on **AI Automation Projects**
 - **GHL setup & automation** for agencies and clinics
 - **Chatbot development** for WhatsApp, Instagram, Facebook
@@ -82,7 +83,7 @@ AI-powered agentic systems and GoHighLevel automation for service businesses and
 ## 📫 Contact Me
 
 - 📧 Email: itxkhaskheli@gmail.com
-- 💼 Upwork: [Hire me on Upwork](https://www.upwork.com)
+- 💼 Upwork: [Hire me on Upwork](https://www.upwork.com/freelancers/~01d6464d76481da6e6)
 - 👨‍💻 Portfolio: [Naeem's Portfolio](https://github.com/naeemhk011)
 
 ---
